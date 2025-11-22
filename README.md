@@ -139,25 +139,27 @@ Follow these steps to run the Perlora Travel Agency Management System locally:
 ### 1. Extract the Project
 - Download and extract the project ZIP file to your desired location.
 
-### 2. Open Terminal
+
+
+### 2. Open Terminals
 - Open your terminal and **split it into two terminals** (or open two separate terminals).  
 - One terminal will be used for the **frontend**, and the other for the **backend/server**.
 
 ### 3. Install Dependencies
-
-**Frontend Terminal:**
-```bash
-cd frontend
-npm install
+- In the **frontend terminal**, navigate to the `frontend` folder and install the necessary packages:
+`cd frontend
+npm install`
 
 ---
 
 ## 🌐 Demo
- 
+https://drive.google.com/file/d/1RehC16TWnS-5nMs-0oDj7eeCzUP47LM1/view
 
 ---
 
 ## 👩🏻‍💻 Author
-Developed by **[Aisha_Nafy](https://www.linkedin.com/in/aisha-nafy/)**  
-Undergraduate Information Technology Student | SLIIT
+Developed by **[Aisha_Nafy](https://www.linkedin.com/in/aisha-nafy/)**   
+Undergraduate Information Technology Student | SLIIT  
+
+---
 
