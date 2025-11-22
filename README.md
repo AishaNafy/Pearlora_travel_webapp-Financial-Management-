@@ -1,8 +1,9 @@
 # 💳 Perlora – Financial Management 
 
 <p align="center">
-  <img src="path_to_your_image/finance_module.png" width="350">
+  <img src="frontend/Logo.png" width="350">
 </p>
+
 
 The **Financial Management module** of Perlora ( Sri Lanka Travel Agency Management System ) is a comprehensive payment system designed to handle all monetary transactions in a travel management platform efficiently, securely, and transparently. It connects travelers, service providers, and administrators in a seamless environment where payments for hotels, transportation, and events are processed with real-time updates, detailed transaction tracking, and robust security measures.  
 
